@@ -1,6 +1,6 @@
 # BFHL API
 
-> 🚀 Live Demo: [https://bfhl-production-f117.up.railway.app/bfhl](https://bfhl-production-f117.up.railway.app/bfhl)
+> Updated Hosted URL: [https://bfhl-production-f117.up.railway.app/bfhl](https://bfhl-production-f117.up.railway.app/bfhl)
 
 ---
 
